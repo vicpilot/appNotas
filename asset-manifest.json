@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appNotas/static/css/main.1440db6c.css",
+    "main.js": "/appNotas/static/js/main.32ed784c.js",
+    "static/js/453.0fe6d4bd.chunk.js": "/appNotas/static/js/453.0fe6d4bd.chunk.js",
+    "static/media/images.png": "/appNotas/static/media/images.98d5a75efc9790546ee7.png",
+    "index.html": "/appNotas/index.html",
+    "main.1440db6c.css.map": "/appNotas/static/css/main.1440db6c.css.map",
+    "main.32ed784c.js.map": "/appNotas/static/js/main.32ed784c.js.map",
+    "453.0fe6d4bd.chunk.js.map": "/appNotas/static/js/453.0fe6d4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1440db6c.css",
+    "static/js/main.32ed784c.js"
+  ]
+}
